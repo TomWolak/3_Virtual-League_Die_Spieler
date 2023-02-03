@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\3_Virtual-League_Die_Spieler\3_Virtual-League_Die_Spieler\bin\Debug\3_Virtual-League_Die_Spieler.exe.config
+C:\Users\admin\source\repos\3_Virtual-League_Die_Spieler\3_Virtual-League_Die_Spieler\bin\Debug\3_Virtual-League_Die_Spieler.exe
+C:\Users\admin\source\repos\3_Virtual-League_Die_Spieler\3_Virtual-League_Die_Spieler\bin\Debug\3_Virtual-League_Die_Spieler.pdb
+C:\Users\admin\source\repos\3_Virtual-League_Die_Spieler\3_Virtual-League_Die_Spieler\obj\Debug\3_Virtual-League_Die_Spieler.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\3_Virtual-League_Die_Spieler\3_Virtual-League_Die_Spieler\obj\Debug\3_Virtual-League_Die_Spieler.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\3_Virtual-League_Die_Spieler\3_Virtual-League_Die_Spieler\obj\Debug\3_Virtual-League_Die_Spieler.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\3_Virtual-League_Die_Spieler\3_Virtual-League_Die_Spieler\obj\Debug\3_Virtual-League_Die_Spieler.exe
+C:\Users\admin\source\repos\3_Virtual-League_Die_Spieler\3_Virtual-League_Die_Spieler\obj\Debug\3_Virtual-League_Die_Spieler.pdb
